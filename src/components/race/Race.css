@@ -1,0 +1,14 @@
+.site-card-border-less-wrapper {
+    /* padding: 30px; */
+    background: #ececec;
+    justify-content: center;
+    display: flex;
+    padding: 5%;
+  }
+    [data-theme="dark"] .site-card-border-less-wrapper {
+      background: #303030;
+    }
+    
+.textStyle{
+  text-align: "center"
+}

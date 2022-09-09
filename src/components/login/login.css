@@ -1,0 +1,21 @@
+.site-card-border-less-wrapper {
+  /* padding: 30px; */
+  background: #ececec;
+  justify-content: center;
+  display: flex;
+  padding: 10%;
+}
+  [data-theme="dark"] .site-card-border-less-wrapper {
+    background: #303030;
+  }
+
+.formStyle{
+  padding-top: '15%'
+}
+
+.ant-card{
+  background-color: pink;
+  width: 1000px ;
+  height: 500px ;
+  text-align: center;
+}
