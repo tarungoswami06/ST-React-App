@@ -7,7 +7,7 @@ React,Typescript
 ## Clone Project Repo
 Clone the project by running :
 ```
-git clone https://github.com/tarungoswami06/St-Demo-React-App
+git clone https://github.com/tarungoswami06/ST-React-App
 ```
 
 In the project repo, you can run project by first installing dependency :
